@@ -4,7 +4,7 @@ This is a tweet bot which will tweet daily 3 times from you account based on the
 
 ## API Config
 
-- Make a config folder in project folder
+- Make a config folder in chat-GPT-tweeting-bot
 
 - Make new json file `production.json` and paste you api-Key
 
