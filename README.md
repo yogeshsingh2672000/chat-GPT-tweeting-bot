@@ -32,4 +32,6 @@ Install Tweet Bot with npm
   npm start
 ```
 
+Note: To avoid config package error use `npm start` only
+
 ### All done !
