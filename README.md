@@ -10,7 +10,13 @@ This is a tweet bot which will tweet daily 3 times from you account based on the
 
 ```bash
 {
-   "OPENAI_API_KEY": "YOUR_API_KEY"
+   "OPENAI_API_KEY": "YOUR_API_KEY",
+   "TWITTER_CRED": {
+        "appKey":        "...",
+        "appSecret":     "...",
+        "accessToken":   "...",
+        "accessSecret":  "..."
+    }
 }
 ```
 
