@@ -6,7 +6,7 @@ This is a tweet bot which will tweet daily 3 times from you account based on the
 
 - Make a config folder in chat-GPT-tweeting-bot
 
-- Make new json file `production.json` and paste you api-Key
+- Make new json file `production.json` and paste your credentials
 
 ```bash
 {
@@ -25,6 +25,8 @@ This is a tweet bot which will tweet daily 3 times from you account based on the
 Install Tweet Bot with npm
 
 ```bash
+  fork
+  clone
   cd chat-gpt-tweeting-bot
   npm i
   npm start
